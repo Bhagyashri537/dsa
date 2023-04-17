@@ -3,6 +3,7 @@ function x() {
   function y(){
     console.log(a)
     console.log('ssss')
+    console.log('ssss')
   }
   y()
 }
